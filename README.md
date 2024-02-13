@@ -48,8 +48,10 @@ ArcGIS Pro позволяет хранить несколько элементо
 
 
 ![](https://pro.arcgis.com/ru/pro-app/3.0/help/layouts/GUID-5B8FE672-EE85-49A7-A5B3-FAC97FE07492-web.png)
-
+<br>
 _Обзор элементов компоновки_
+
+<br>
 
 - 3.1. Добавьте компоновку, фрейм карты и фрейм таблицы. Измените фрейм таблицы, чтобы улучшить его оформление в руководстве [Работа с фреймом таблицы](https://pro.arcgis.com/ru/pro-app/3.0/help/layouts/work-with-a-table-frame.htm)
 - 3.2. Добавьте в фрейм карты градусную сетку и измените ее компоненты в уроке [Работа с градусной сеткой](https://pro.arcgis.com/ru/pro-app/3.0/help/layouts/work-with-a-grid.htm)
